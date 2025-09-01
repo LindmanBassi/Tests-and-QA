@@ -16,7 +16,7 @@ class TransactionValidatorTest {
 
             // Arrange
             var transaction = new Transaction(0,
-                    "PIX", false, 0
+                     "PIX", false, 0
             );
 
             // Act && Assert
